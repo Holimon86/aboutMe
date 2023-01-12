@@ -1,0 +1,22 @@
+#myPhoto {
+    height: 400px;
+    width: 300px;
+    border: 10px solid blue;
+    margin-top: 20px;
+    margin-left: 600px;
+    border-radius: 50%;
+}
+
+.verdana {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: Blue;
+}
+
+#backgroundColor {
+    background-color: orange;
+    
+}
+
+.blue {
+    color: blue;
+}
